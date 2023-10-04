@@ -6,5 +6,6 @@ public class Main {
 		System.out.println("日本電子専門学校");
 		System.out.println("　　情報システム開発科");
 		System.out.println("　　１組");
+		System.out.println("　　日本　電子");
 	}
 }
