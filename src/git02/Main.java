@@ -8,4 +8,8 @@ public class Main {
 		System.out.println("　　１組");
 		System.out.println("　　日本　電子");
 	}
+	
+	public static void hoge() {
+		System.out.println("hoge");
+	}
 }
